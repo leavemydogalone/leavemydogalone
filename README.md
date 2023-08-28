@@ -12,5 +12,7 @@ HTML, CSS, Javascript, TypeScript, Vue.js, React.js, Storybook, React Testing Li
 Python, Java, Node.js, Express
 ## Database
 Firebase, Firestore, Mongodb, SQL, NoSQL
+##Tools
+Github, Gitlab, Postman, Jira
 ## Design
 Figma, UXPin, Photoshop, Illustrator
