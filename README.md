@@ -4,7 +4,7 @@
 
 I'm a software, web, and Unreal Engine developer. I have a passion for creating interactive software and web experiences.
 
-Right now, I am spending most of my time on my passion project, which is prototype for a multiplayer turn-based strategy game in Unreal Engine. I am also working part-time as a frontend software engineer on the website and app for [MinuteMediator](https://www.minutemediator.com/)
+Right now, I am spending most of my time on a passion project, which is the [prototype for a multiplayer turn-based strategy game in Unreal Engine](https://github.com/leavemydogalone/Prototype). I am also working part-time as a frontend software engineer on the website and app for [MinuteMediator](https://www.minutemediator.com/)
 
 ## 🛠 Tech Stack
 
