@@ -2,9 +2,9 @@
 
 ### [Website](https://www.niklasport.com) 
 
-I'm a software, web, and Unreal Engine developer. I have a passion for creating interactive software and web experiences.
+I'm a full-stack software engineer. I have a passion for creating interactive software and web experiences.
 
-Right now, I am spending most of my time on a passion project, which is the [prototype for a multiplayer turn-based strategy game in Unreal Engine](https://github.com/leavemydogalone/Prototype). I am also working part-time as a frontend software engineer on the website and app for [MinuteMediator](https://www.minutemediator.com/)
+I recently created a couple video game prototypes in Unreal, one of which you can check out here [prototype for a multiplayer turn-based strategy game in Unreal Engine](https://github.com/leavemydogalone/Prototype). I am also working part-time as a software engineer for [MinuteMediator](https://www.minutemediator.com/)
 
 ## 🛠 Tech Stack
 
