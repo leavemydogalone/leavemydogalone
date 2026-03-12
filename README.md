@@ -4,7 +4,7 @@
 
 I'm a full-stack software engineer. I have a passion for creating interactive software and web experiences.
 
-I recently created a couple video game prototypes in Unreal, one of which you can check out here [prototype for a multiplayer turn-based strategy game in Unreal Engine](https://github.com/leavemydogalone/Prototype). I am also working part-time as a software engineer for [MinuteMediator](https://www.minutemediator.com/)
+I'm current working on [MinuteMediator](https://www.minutemediator.com/) and I recently created a couple video game prototypes in Unreal, one of which you can check out here [prototype for a multiplayer turn-based strategy game in Unreal Engine](https://github.com/leavemydogalone/Prototype).
 
 ## 🛠 Tech Stack
 
